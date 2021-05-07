@@ -1,0 +1,1 @@
+Criando um novo arquivo e esquecendo de adiciona lo ao commit 
