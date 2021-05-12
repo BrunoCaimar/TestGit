@@ -1,5 +1,9 @@
+
 Alterando em um novo branch
 ALteraco no master 1 
+
+Essa alteracao vai gerar conflito... 
+
 Teste - Git tutorial
 Alterando arquivo existente
 
