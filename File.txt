@@ -1,5 +1,6 @@
-ALteraco no master 1 / Essa alteracao vai gerar conflito... Confilto resolvido no merge do master
+Alteracao para gerar conflito...
 Teste - Git tutorial
+
 Alterando arquivo existente
 
 
