@@ -1,4 +1,5 @@
 Alteracao no master ... Alteracao para gerar conflito...
+Alterando em um novo branch
 Teste - Git tutorial
 
 Alterando arquivo existente
